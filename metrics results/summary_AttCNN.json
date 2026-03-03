@@ -1,0 +1,12 @@
+{
+  "model": "AttCNN",
+  "vocab_size": 27834,
+  "max_len": 128,
+  "epochs": 12,
+  "optimizer": "AdamW",
+  "lr": 0.0003,
+  "weight_decay": 0.0001,
+  "train_pairs": 120404,
+  "val_pairs": 14886,
+  "test_pairs": 14894
+}
